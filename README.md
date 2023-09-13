@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: [Add live site URL here](https://your-live-site-url.com)
+- Live Site: [Live](https://abdelrhman-abass.github.io/Product-Preview-Card-frontendmentor/))
 
 ### Built with
 
